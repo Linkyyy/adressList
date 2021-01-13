@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>通讯录.png</file>
+        <file>设置 (1).png</file>
+    </qresource>
+</RCC>
